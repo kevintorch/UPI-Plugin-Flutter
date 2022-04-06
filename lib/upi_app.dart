@@ -29,7 +29,7 @@ enum _ValidUpiApps {
 //  jetPay,
   kblUpi,
   khaaliJeb,
-  kotak,
+  kotak
 //  kvbUpay,
 //  lvbUpaay,
   mahaUpi,
